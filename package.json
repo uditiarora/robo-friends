@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": " https://uditiarora.github.io/RoboFriends/",
+  "homepage": " https://uditiarora.github.io/robo-friends/",
   "eslintConfig": {
     "extends": "react-app"
   },
